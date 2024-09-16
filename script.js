@@ -38,5 +38,5 @@ start();
 
 setInterval(() => {
     start();
-}, interval);
+}, 8000);
 
