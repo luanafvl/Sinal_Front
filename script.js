@@ -27,10 +27,10 @@ function start(){
         setRed()
     }, 0)
     setTimeout(() => {
-        setYellow
+        setYellow()
     }, 2000);
     setTimeout(() => {
-        setGreen 
+        setGreen()
     }, 4000)
 }
     
